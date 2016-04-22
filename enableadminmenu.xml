@@ -15,5 +15,7 @@
 	<languages>
 		<language tag="en-GB">language/en-GB/en-GB.plg_system_enableadminmenu.ini</language>
 		<language tag="en-GB">language/en-GB/en-GB.plg_system_enableadminmenu.sys.ini</language>
+		<language tag="de-DE">language/de-DE/de-DE.plg_system_enableadminmenu.ini</language>
+		<language tag="de-DE">language/de-DE/de-DE.plg_system_enableadminmenu.sys.ini</language>
 	</languages>
 </extension>
