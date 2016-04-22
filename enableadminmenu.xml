@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="plugin" group="system" method="upgrade">
+	<name>plg_system_enableadminmenu</name>
+	<author>Florian Ruppel</author>
+	<creationDate>April 2016</creationDate>
+	<copyright>(C) 2016 Florian Ruppel</copyright>
+	<license>GNU General Public License version 2 or later; see	LICENSE.txt</license>
+	<authorEmail>ruppel.florian@gmail.com</authorEmail>
+	<authorUrl>www.github.com/fruppel</authorUrl>
+	<version>1.0.0</version>
+	<description>PLG_SYSTEM_ENABLEADMINMENU_XML_DESCRIPTION</description>
+	<files>
+		<filename plugin="enableadminmenu">enableadminmenu.php</filename>
+	</files>
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_enableadminmenu.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.plg_system_enableadminmenu.sys.ini</language>
+	</languages>
+</extension>
